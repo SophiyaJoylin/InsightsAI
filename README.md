@@ -17,7 +17,7 @@ The system combines:
 - Upload CSV and Excel files
 - Automatic data preprocessing
 - Dynamic column detection
-Screenshot 2026-08-03 204515.png
+https://github.com/SophiyaJoylin/InsightsAI/blob/7a73b8974c4ee0316824d49057371f2e472814ff/Screenshot%202026-08-03%20204515.png
 
 
 ## Interactive Dashboard
