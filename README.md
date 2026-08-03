@@ -30,6 +30,9 @@ Includes:
 - Category Analysis
 - Sales Visualization
 - Profit Distribution
+https://github.com/SophiyaJoylin/InsightsAI/blob/e56aee8f2ed0437b6606a297645c3a2c2be000f7/InsightDashboard.png
+
+
 ## Technologies Used
 
 # Programming
@@ -67,6 +70,21 @@ InsightAI/
 ├── data/
 │
 └── requirements.txt
+
+## 📊 Business Dashboard & Data Analysis Overview
+
+This project includes an interactive business dashboard that converts raw datasets into meaningful insights through visualization and statistical analysis.
+https://github.com/SophiyaJoylin/InsightsAI/blob/e56aee8f2ed0437b6606a297645c3a2c2be000f7/BuisnessDashboard.png
+
+
+The dashboard analyzes business data using key performance indicators (KPIs), interactive charts, and tabular reports to understand sales performance, profit trends, category-wise analysis, and overall business growth.
+https://github.com/SophiyaJoylin/InsightsAI/blob/e56aee8f2ed0437b6606a297645c3a2c2be000f7/Statistical.png
+
+The dataset is processed through data cleaning and transformation techniques to prepare structured information for analysis. Statistical methods are applied to identify patterns, trends, distributions, and performance metrics.
+https://github.com/SophiyaJoylin/InsightsAI/blob/e56aee8f2ed0437b6606a297645c3a2c2be000f7/DataSet.png 
+
+The tabular analysis provides detailed records and summaries, helping users explore the data at both granular and overall business levels.
+https://github.com/SophiyaJoylin/InsightsAI/blob/e56aee8f2ed0437b6606a297645c3a2c2be000f7/Tabular.png
 
 ## Experience & Learning Outcomes
 
