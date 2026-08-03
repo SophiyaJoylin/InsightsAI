@@ -17,6 +17,7 @@ The system combines:
 - Upload CSV and Excel files
 - Automatic data preprocessing
 - Dynamic column detection
+Screenshot 2026-08-03 204515.png
 
 
 ## Interactive Dashboard
